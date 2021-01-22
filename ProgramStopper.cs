@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace UdemyStopWatch
 {
-    class Program 
+    class ProgramStopper 
     {
         
          static void Main(String[] args) //in static canot use access modifier
